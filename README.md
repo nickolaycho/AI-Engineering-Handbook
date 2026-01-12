@@ -1,8 +1,6 @@
----
-title: AI Engineering Handbook
----
+# AI Engineering Handbook
 
-- [Contents](#contents)
+# [Contents]
 - [What is AI Engineering?](#what-is-ai-engineering)
   - [AI machine analogy](#ai-machine-analogy)
 - [Large Language Models](#large-language-models)
